@@ -7,7 +7,7 @@
                 "caption": "-" 
             },
             {
-                "caption": "Exclude Ignored",
+                "caption": "Exclude Git-ignored",
                 "id": "exclude-ignored",
                 "command": "exclude_ignored",
             }
