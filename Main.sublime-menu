@@ -1,0 +1,16 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {   
+                "caption": "-" 
+            },
+            {
+                "caption": "Exclude Ignored",
+                "id": "exclude-ignored",
+                "command": "exclude_ignored",
+            }
+        ]
+    }
+]
